@@ -1,0 +1,1 @@
+微信小程序校园摆渡车Demo，Ferry for WeChat Mini Program
